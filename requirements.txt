@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+fastapi
+uvicorn
+pyside6
+numpy
+pandas
+matplotlib
+pillow
+requests

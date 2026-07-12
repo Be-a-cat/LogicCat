@@ -1,0 +1,49 @@
+{
+    "1": {
+        "type": "ValueNode",
+        "idx": "1",
+        "inputs": {
+            "value": 0.0
+        },
+        "geometry": [
+            -400.0,
+            0.0,
+            200,
+            100
+        ],
+        "symbiont": [],
+        "edges": []
+    },
+    "2": {
+        "type": "MathNode",
+        "idx": "2",
+        "inputs": {
+            "mode": "Add(+)",
+            "A": 0.0,
+            "B": 0.0
+        },
+        "geometry": [
+            -100.0,
+            0.0,
+            200,
+            160
+        ],
+        "symbiont": [],
+        "edges": []
+    },
+    "3": {
+        "type": "OutputNode",
+        "idx": "3",
+        "inputs": {
+            "input_count": 1
+        },
+        "geometry": [
+            200.0,
+            0.0,
+            200,
+            70
+        ],
+        "symbiont": [],
+        "edges": []
+    }
+}
